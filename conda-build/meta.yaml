@@ -1,11 +1,11 @@
 {% set data = load_setup_py_data() %}
 
 package:
-  name: libraryname
+  name: nnwidgets
   version: {{ data.get('version') }}  
 
 source:
-  git_url: https://github.com/munch-group/libraryname.git
+  git_url: https://github.com/munch-group/nnwidgets.git
 
 build:
   # noarch: python
@@ -42,16 +42,16 @@ dependencies:   # Keep this block with only these two packages
   
 test:
   imports:
-    - libraryname
+    - nnwidgets
   # commands:
   #   - exercises --help    
 
 about:
-  home: https://github.com/munch-group/libraryname.git
+  home: https://github.com/munch-group/nnwidgets.git
   license: MIT
   # summary: "Blah blah"
   # description: |
   #   "Blah blah"
   #   "Blah blah"
-  dev_url: https://github.com/munch-group/libraryname.git
-  doc_url: https://munch-group.org/libraryname
+  dev_url: https://github.com/munch-group/nnwidgets.git
+  doc_url: https://munch-group.org/nnwidgets

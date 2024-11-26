@@ -1,4 +1,4 @@
-# libraryname
+# nnwidgets
 
 Blah blah...
 

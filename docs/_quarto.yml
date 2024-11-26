@@ -34,7 +34,7 @@ interlinks:
     #   inv: objects-test.txt
 
 website:
-  title: "libraryname"
+  title: "nnwidgets"
   page-navigation: true
   navbar:
     left:
@@ -44,7 +44,7 @@ website:
         text: Reference
     right:
       - icon: github
-        href: https://github.com/munch-group/libraryname/
+        href: https://github.com/munch-group/nnwidgets/
   sidebar:
     - id: pages
       title: Get Started
@@ -77,7 +77,7 @@ format:
 quartodoc:
   style: pkgdown
   dir: api
-  package: libraryname
+  package: nnwidgets
   render_interlinks: true
   options:
     signature_name: full

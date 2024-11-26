@@ -1,6 +1,6 @@
-# bar.baz { #libraryname.bar.baz }
+# bar.baz { #nnwidgets.bar.baz }
 
 ```python
-libraryname.bar.baz()
+nnwidgets.bar.baz()
 ```
 

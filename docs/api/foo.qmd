@@ -1,7 +1,7 @@
-# foo { #libraryname.foo }
+# foo { #nnwidgets.foo }
 
 ```python
-libraryname.foo(x, y=1)
+nnwidgets.foo(x, y=1)
 ```
 
 The sum of two numbers.
