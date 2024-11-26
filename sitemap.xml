@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://munch-group.github.io/libraryname/api/foo.html</loc>
-    <lastmod>2024-11-01T12:13:20.994Z</lastmod>
+    <loc>https://munch-group.github.io/nnwidget/api/foo.html</loc>
+    <lastmod>2024-11-26T08:26:20.196Z</lastmod>
   </url>
   <url>
-    <loc>https://munch-group.github.io/libraryname/api/bar.baz.html</loc>
-    <lastmod>2024-11-01T12:13:20.994Z</lastmod>
+    <loc>https://munch-group.github.io/nnwidget/api/bar.baz.html</loc>
+    <lastmod>2024-11-26T08:26:20.196Z</lastmod>
   </url>
   <url>
-    <loc>https://munch-group.github.io/libraryname/pages/overview.html</loc>
-    <lastmod>2024-11-01T12:13:20.994Z</lastmod>
+    <loc>https://munch-group.github.io/nnwidget/pages/overview.html</loc>
+    <lastmod>2024-11-26T08:26:20.200Z</lastmod>
   </url>
   <url>
-    <loc>https://munch-group.github.io/libraryname/pages/something.html</loc>
-    <lastmod>2024-11-01T12:13:20.994Z</lastmod>
+    <loc>https://munch-group.github.io/nnwidget/pages/something.html</loc>
+    <lastmod>2024-11-26T08:26:20.200Z</lastmod>
   </url>
   <url>
-    <loc>https://munch-group.github.io/libraryname/about.html</loc>
-    <lastmod>2024-11-01T12:13:20.990Z</lastmod>
+    <loc>https://munch-group.github.io/nnwidget/about.html</loc>
+    <lastmod>2024-11-26T08:26:20.196Z</lastmod>
   </url>
   <url>
-    <loc>https://munch-group.github.io/libraryname/pages/advanced.html</loc>
-    <lastmod>2024-11-01T12:13:20.994Z</lastmod>
+    <loc>https://munch-group.github.io/nnwidget/pages/advanced.html</loc>
+    <lastmod>2024-11-26T08:26:20.200Z</lastmod>
   </url>
   <url>
-    <loc>https://munch-group.github.io/libraryname/pages/examples.html</loc>
-    <lastmod>2024-11-01T12:13:20.994Z</lastmod>
+    <loc>https://munch-group.github.io/nnwidget/pages/examples.html</loc>
+    <lastmod>2024-11-26T08:26:20.200Z</lastmod>
   </url>
   <url>
-    <loc>https://munch-group.github.io/libraryname/pages/basics.html</loc>
-    <lastmod>2024-11-01T12:13:20.994Z</lastmod>
+    <loc>https://munch-group.github.io/nnwidget/pages/basics.html</loc>
+    <lastmod>2024-11-26T08:26:20.200Z</lastmod>
   </url>
   <url>
-    <loc>https://munch-group.github.io/libraryname/api/index.html</loc>
-    <lastmod>2024-11-01T12:13:20.994Z</lastmod>
+    <loc>https://munch-group.github.io/nnwidget/api/index.html</loc>
+    <lastmod>2024-11-26T08:26:20.196Z</lastmod>
   </url>
 </urlset>
