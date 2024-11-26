@@ -58,7 +58,6 @@ website:
         - section: "Examples"
           contents:
             - pages/example.ipynb            
-            - pages/something.ipynb            
         - section: "Advanced"
           contents:
             - pages/advanced.qmd
@@ -86,7 +85,6 @@ quartodoc:
     table_style: description-list
   sidebar: "api/_sidebar.yml"
   css: "api/_styles-quartodoc.css"
-
   sections:
     - title: Some section
       desc: ""
